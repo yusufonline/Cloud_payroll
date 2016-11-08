@@ -1,2 +1,2 @@
-# Cloud_payroll
-Vb2010 cloud payroll system
+cloud database with visual studio interface 
+windows base project installable project
